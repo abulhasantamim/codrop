@@ -1,0 +1,157 @@
+@media (max-width:1399px){
+	header {
+    	background-size: 600px;
+}
+.about-section{
+    background-size: 700px;
+}
+}
+
+@media (max-width:1199px){
+header {
+    	background-size: 500px;
+ }
+header h1 {
+    font-size: 38px;
+    line-height: 1.4;
+}
+header p {
+    line-height: 1.7;
+    margin: 20px 0;
+    font-size: 15px;
+}
+.banner-content a {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+.banner-content a i{
+	font-size: 30px;
+}
+.partner-section .row div{
+	padding: 2rem !important;
+}
+.feature h1 {
+    font-size: 26px;
+    line-height: 1.5;
+    margin-bottom: 13px;
+}
+.feature a {
+    margin-top: 4px;
+}
+.about-section{
+    background-size: 550px;
+    padding: 50px 0;
+}
+.question-section h1 {
+    font-size: 26px;
+}
+.question-section ul li {
+    font-size: 14px;
+    padding-top: 30px;
+}
+.question-section ul li i {
+    width: 24px;
+    height: 24px;
+    line-height: 24px;
+    font-size: 20px;
+}
+.price-heading {
+    padding: 40px 15px;
+}
+.oder-now {
+    padding: 40px 20px;
+}
+}
+
+@media (max-width:991px){
+header {
+    background-size: 400px;
+}
+.banner-content {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.header h1 {
+    font-size: 34px;
+}
+.partner-section .row div {
+    padding: 1.5rem !important;
+}
+.feature h1 {
+    margin: 30px 0;
+}
+.about-section{
+    background-size: 400px;
+    padding: 50px 0;
+}
+.about-section h1 {
+    font-size: 27px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+.question-section ul li {
+    font-size: 14px !important;
+    padding-top: 10px;
+}
+}
+
+@media (max-width:767px){
+header {
+    background-image: url();
+
+}
+.banner-content{
+	text-align: center;
+}
+.banner-content a {
+    padding-top: 7px !important;
+    padding-bottom: 7px !important;
+}
+.partner-section .row div {
+    padding: 2rem 10px !important;
+}
+.about-section{
+    background-size:0;
+}
+.about-section p {
+    padding: 30px 0;
+}
+.question-section ul li {
+    font-size: 16px !important;
+}
+.question-section ul li i {
+    width: 28px;
+    height: 28px;
+    line-height: 28px;
+    font-size: 25px;
+}
+
+@media (max-width:575px){
+header h1{
+		font-size: 32px;
+}
+.banner-content{
+	margin-bottom: 15px;
+	padding-top: 50px !important;
+	padding-bottom: 50px !important;
+}
+.partner-section .row div{
+	padding: 2rem 30px !important;
+}
+.feature {
+    margin-bottom: 30px;
+}
+.new-feature{
+    text-align: center;
+    padding: 0 70px;
+}
+.new-feature a{
+    padding-top: 15px;
+}
+.question-section ul li {
+    font-size: 14px !important;
+}
+.container h4 {
+    margin-top: 50px;
+}
+}
